@@ -9,15 +9,13 @@
 
 ## Finding Data
 
-Your project must use 2 or more sources of data. We recommend the following sites to use as sources of data:
+With our project we decided to use 2 data sources. This is the site were we collected our data:
 
-* [data.world](https://data.world/)
+* [Kaggle](https://www.kaggle.com/rohanrao/chess-fide-ratings)
 
-* [Kaggle](https://www.kaggle.com/)
 
-You can also use APIs or data scraped from the web. However, get approval from your instructor first. Again, there is only a week to complete this!
-
-## Data Cleanup & Analysis
+### Project Instructions
+### Data Cleanup & Analysis
 
 Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
 
@@ -31,7 +29,7 @@ Once you have identified your datasets, perform ETL on the data. Make sure to pl
 
 You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
 
-## Project Report
+### Project Report
 
 At the end of the week, your team will submit a Final Report that describes the following:
 
