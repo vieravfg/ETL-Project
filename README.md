@@ -1,14 +1,11 @@
 # CHESS - ETL Project
 
-## Guidelines for ETL Project
-
-This document contains guidelines, requirements, and suggestions for Project 1.
-
 ## Project Proposal
 
-Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
-
-Take advantage of your Instructor and TA support during office hours and class project work time. They are a valuable resource and can help you stay on track.
+* Country with the highest rated players
+* Best players from each country for a specific year
+* Compare change in rating between 2 or more years
+* Which age group has the best rating overall (every 10 years)
 
 ## Finding Data
 
