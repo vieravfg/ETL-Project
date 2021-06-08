@@ -13,9 +13,6 @@ With our project we decided to use 2 data sources. This is the site were we coll
 
 * [Kaggle](https://www.kaggle.com/rohanrao/chess-fide-ratings)
 
-#### Group Members: Viera Garcia, Ting Jennings, Erin Zheng, Ricardo Benitez, Tina Huang
-
-
 ### Project Instructions
 ### Data Cleanup & Analysis
 
@@ -41,4 +38,5 @@ At the end of the week, your team will submit a Final Report that describes the 
 
 * **L**oad: the final database, tables/collections, and why this was chosen.
 
+### Group Members: Viera Garcia, Ting Jennings, Erin Zheng, Ricardo Benitez, Tina Huang
 
