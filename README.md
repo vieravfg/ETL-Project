@@ -4,7 +4,7 @@
 We are planning on bringing 3 csv files into the postgress database and cleaning out the columns so we can join it with the data sources from years 2019-2020 for comparison purposes. 
 
 ## Research Question
-* Which country has the best chess players during 2020? 
+* Which country had the best chess players during 2020? 
 * Does age play a role in chess rankings? Compare results between the 2 years.  
 
 ## Finding Data
@@ -12,6 +12,8 @@ We are planning on bringing 3 csv files into the postgress database and cleaning
 With our project we decided to use 2 data sources. This is the site were we collected our data:
 
 * [Kaggle](https://www.kaggle.com/rohanrao/chess-fide-ratings)
+
+#### Group Members: Viera Garcia, Ting Jennings, Erin Zheng, Ricardo Benitez, Tina Huang
 
 
 ### Project Instructions
@@ -39,9 +41,4 @@ At the end of the week, your team will submit a Final Report that describes the 
 
 * **L**oad: the final database, tables/collections, and why this was chosen.
 
-Please upload the report to Github and submit a link to Bootcampspot.
 
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-# Chess-Ratings
