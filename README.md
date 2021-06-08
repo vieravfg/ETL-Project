@@ -6,6 +6,9 @@
 * Best players from each country for a specific year
 * Compare change in rating between 2 or more years
 * Which age group has the best rating overall (every 10 years)
+## Research Question
+* Which country has the best chess players during 2020? 
+* Does age play a role in chess rankings? Compare results between the 2 years.  
 
 ## Finding Data
 
