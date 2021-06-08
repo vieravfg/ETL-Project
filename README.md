@@ -1,11 +1,8 @@
 # CHESS - ETL Project
 
-## Project Proposal
+## Project Outline
+We are planning on bringing 3 csv files into the postgress database and cleaning out the columns so we can join it with the data sources from years 2019-2020 for comparison purposes. 
 
-* Country with the highest rated players
-* Best players from each country for a specific year
-* Compare change in rating between 2 or more years
-* Which age group has the best rating overall (every 10 years)
 ## Research Question
 * Which country has the best chess players during 2020? 
 * Does age play a role in chess rankings? Compare results between the 2 years.  
