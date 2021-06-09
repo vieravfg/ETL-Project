@@ -1,5 +1,5 @@
 # CHESS - ETL Project
-<img src="chess2.jpg" width="800" height="600">
+<img src="chess2.jpg" width="800" height="500">
 
 ## Project Outline
 We are planning on bringing 3 csv files into the postgress database and cleaning out the columns so we can join it with the data sources from years 2019-2020 for comparison purposes. 
