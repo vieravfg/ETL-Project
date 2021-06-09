@@ -1,6 +1,5 @@
 # CHESS - ETL Project
-https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/16:9/w_2400,h_1350,c_limit/business_chess_1200074974.jpg
-
+![image](https://user-images.githubusercontent.com/80232765/121278169-0d655780-c8a0-11eb-875f-ca6f415e1c09.png)
 
 
 ## Project Outline
