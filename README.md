@@ -1,5 +1,5 @@
 # CHESS - ETL Project
-<img src="chess2.jpg" width="800" height="500">
+<img src="chess.jpg" width="800" height="500">
 
 
 
