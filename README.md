@@ -1,5 +1,5 @@
 # CHESS - ETL Project
-<img src="chess.jpg" width="800" height="500">
+https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/16:9/w_2400,h_1350,c_limit/business_chess_1200074974.jpg
 
 
 
