@@ -1,5 +1,5 @@
 # CHESS - ETL Project
-
+![]((https://images.unsplash.com/photo-1528819622765-d6bcf132f793?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZXNzJTIwcGllY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80 | width=100)
 ## Project Outline
 We are planning on bringing 3 csv files into the postgress database and cleaning out the columns so we can join it with the data sources from years 2019-2020 for comparison purposes. 
 
