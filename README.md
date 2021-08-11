@@ -39,8 +39,9 @@ At the end of the week, your team will submit a Final Report that describes the 
 * **T**ransform: what data cleaning or transformation was required.
 
 * **L**oad: the final database, tables/collections, and why this was chosen.
-### Project Results | Summary 
+## Project Results | Summary 
 ![image](Images/red.png)
+![image1](Images/blue.png)
 
 ### Group Members: Viera Garcia, Ting Jennings, Erin Zheng, Ricardo Benitez, Tina Huang
 
